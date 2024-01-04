@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xmlmodel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Weatehers>
+    <Weateher>
+      <Location>
+        <name>Asyut</name>
+        <region>Asyut</region>
+        <country>Egypt</country>
+        <localtime>2024-01-04 12:10</localtime>
+        <lat>27.18</lat>
+        <lon>31.18</lon>
+      </Location>
+      <current>
+        <temp_c>18</temp_c>
+        <temp_f>64.4</temp_f>
+        <wind_mph>9.4</wind_mph>
+        <wind_kph>15.1</wind_kph>
+        <wind_dir>N</wind_dir>
+        <cloud>0</cloud>
+        <condition>
+          <text>Sunny</text>
+          <icon>//cdn.weatherapi.com/weather/64x64/day/113.png</icon>
+        </condition>
+      </current>
+    </Weateher>
+    <Weateher>
+      <Location>
+        <name>London</name>
+        <region>City of London, Greater London</region>
+        <country>United Kingdom</country>
+        <localtime>2024-01-04 10:35</localtime>
+        <lat>51.52</lat>
+        <lon>-0.11</lon>
+      </Location>
+      <current>
+        <temp_c>7</temp_c>
+        <temp_f>44.6</temp_f>
+        <wind_mph>3.8</wind_mph>
+        <wind_kph>6.1</wind_kph>
+        <wind_dir>WSW</wind_dir>
+        <cloud>0</cloud>
+        <condition>
+          <text>Sunny</text>
+          <icon>//cdn.weatherapi.com/weather/64x64/day/113.png</icon>
+        </condition>
+      </current>
+    </Weateher>
+    <Weateher>
+      <Location>
+        <name>Paris</name>
+        <region>Ile-de-France</region>
+        <country>France</country>
+        <localtime>2024-01-04 11:38</localtime>
+        <lat>48.87</lat>
+        <lon>2.33</lon>
+      </Location>
+      <current>
+        <temp_c>9</temp_c>
+        <temp_f>48.2</temp_f>
+        <wind_mph>10.5</wind_mph>
+        <wind_kph>16.9</wind_kph>
+        <wind_dir>S</wind_dir>
+        <cloud>75</cloud>
+        <condition>
+          <text>Partly cloudy</text>
+          <icon>//cdn.weatherapi.com/weather/64x64/day/116.png</icon>
+        </condition>
+      </current>
+    </Weateher>
+  </Weatehers>
+</xmlmodel>
